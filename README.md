@@ -22,3 +22,10 @@ In this section, the following basic functions are implemented:
 - Error function
 - The function that updates the weights
 
+
+### 2. NN training steps:
+
+- One-hot encoding the data
+- Scaling the data
+- Writing the backpropagation step
+
