@@ -28,4 +28,8 @@ In this section, the following basic functions are implemented:
 - One-hot encoding the data
 - Scaling the data
 - Writing the backpropagation step
+- Training the 2-layer Neural Network
+- Back-propagate the error
+- Training the above NN using MSE as error function
+- Implementing a hidden layer and back propogation in the above NN with MSE.
 
