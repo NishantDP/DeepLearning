@@ -33,3 +33,7 @@ In this section, the following basic functions are implemented:
 - Training the above NN using MSE as error function
 - Implementing a hidden layer and back propogation in the above NN with MSE.
 
+
+### 3. Deep learning with TensorFlow
+- Introduction to TensorFlow, tensors, single and multi-layer NN.
+
