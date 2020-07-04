@@ -36,4 +36,10 @@ In this section, the following basic functions are implemented:
 
 ### 3. Deep learning with TensorFlow
 - Introduction to TensorFlow, tensors, single and multi-layer NN.
+- NN with TensorFlow and Keras
+	- Creating pipelines
+	- Implementing softmax
+	- Building NN model
+	- Making predictions
+	- Other ways of building model- subclassing, adding layers.
 
