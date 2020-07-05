@@ -48,4 +48,18 @@ In this section, the following basic functions are implemented:
 	- Check the result on testing data
 	- Evaluate the performance with accuracy metrics.
 - Example: Develop, train and validate a NN model on fashion MNIST dataset.
+- Inference and validation
+	- Creating validation set and testing on it during training.
+	- Inference on training and validation accuracy
+	- Avoiding overfitting: Early stopping and dropout.
+- Saving and loading models
+	- Save and load the model in HDF5 format (Keras).
+	- Save and load model as TensorFlow models.
+	- Save model during training with 'ModelCheckpoint' callback. (another method to avoid overfitting)
+- Working with own image dataset
+	- Loading images with TensorFlow
+	- Data Augmentation: rescale, rotation_range, width_shift_range, height_shift_range, shear_range, zoom_range, horizontal_flip, fill_mode.
+- Transfer Learning
+	- Build Image classifier using the pre-trained model 'mobilenet_v2'
+	
 
