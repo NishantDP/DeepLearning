@@ -42,4 +42,9 @@ In this section, the following basic functions are implemented:
 	- Building NN model
 	- Making predictions
 	- Other ways of building model- subclassing, adding layers.
+- Training the model with training data.
+	- Compile the model with necessary parameters (optimizer, loss function and metrics)
+	- Fit the model to the training data with multiple epochs.
+	- Check the result on testing data
+	- Evaluate the performance with accuracy metrics.
 
