@@ -47,4 +47,5 @@ In this section, the following basic functions are implemented:
 	- Fit the model to the training data with multiple epochs.
 	- Check the result on testing data
 	- Evaluate the performance with accuracy metrics.
+- Example: Develop, train and validate a NN model on fashion MNIST dataset.
 
